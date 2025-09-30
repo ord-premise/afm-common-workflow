@@ -1,0 +1,6 @@
+aiida-core~=2.7.1
+aiida-workgraph==1.0.0b2
+git+https://github.com/edan-bainglass/aiida-quantumespresso.git@pp-workchain
+ppafm~=0.4.0
+git+https://github.com/edan-bainglass/aiida-common-workflows.git@afm
+jupyter
