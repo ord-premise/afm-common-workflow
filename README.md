@@ -32,7 +32,7 @@ The AFM common workflow was developed in collaboration with the Empa lab to ensu
 
 ## Acknowledgements
 
-The author acknowledges Dr. Xing Wang, Dr. Miki Bonacci, Dr. Carlo Pignedoli, and Timo Reents for their time and support during the development of the common workflow.
+The authors acknowledges Dr. Xing Wang, Dr. Miki Bonacci, and Timo Reents for their time and support during the development of the common workflow.
 
 The [PREMISE](https://ord-premise.org/) project is supported by the [Open Research Data Program](https://ethrat.ch/en/eth-domain/open-research-data/) of the ETH Board.
 
