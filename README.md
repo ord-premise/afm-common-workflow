@@ -22,7 +22,7 @@ The composite AFM common workflow uses the Probe-Particle AFM (ppafm) code as th
 
 The references in this repository point to contributions in the relevant repositories.
 The provided notebook (`afm_workflow_demo.ipynb`) demonstrates the new AFM common workflow in action.
-The AFM common workflow was developed in collaboration with the Empa lab to ensure it meets their requirements and is suitable for their use cases.
+The AFM common workflow was developed in collaboration with the Empa lab to ensure it meets the requirements of the scientific community active in this field and is suitable for the most standard use cases.
 
 ## External links
 
